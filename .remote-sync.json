@@ -1,0 +1,15 @@
+{
+  "uploadOnSave": true,
+  "deleteLocal": true,
+  "hostname": "192.168.139.128",
+  "port": "22",
+  "target": "/root/proyectofinal",
+  "ignore": [
+    ".remote-sync",
+    ".git/**",
+    "node_modules/**"
+  ],
+  "username": "root",
+  "password": "devicc",
+  "transport": "scp"
+}
